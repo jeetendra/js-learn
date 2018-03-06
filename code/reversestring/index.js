@@ -42,4 +42,4 @@ async function reverseA(str) {
     return result;
 }
 
-module.exports = {reverse, reverseA};
+module.exports = {reverse, reverseA, reversePipe};
